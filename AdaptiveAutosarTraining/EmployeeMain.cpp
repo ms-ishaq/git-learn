@@ -8,7 +8,7 @@ int main()
 	employee emp1;
 	employee emp2;
 	
-	emp1.setEmployeeData("Malik", "Shoaib", -2000);
+	emp1.setEmployeeData("Malik", "Shoaib", -2001);
 	emp2.setEmployeeData("Junaid", "Ahmed", 2000);
 	
 	emp1.getEmployeeData();
