@@ -1,0 +1,9 @@
+/home/malik/GitTraining/AdaptiveAutosarTraining/build/CMakeFiles/rebuild_cache.dir
+/home/malik/GitTraining/AdaptiveAutosarTraining/build/CMakeFiles/edit_cache.dir
+/home/malik/GitTraining/AdaptiveAutosarTraining/build/CMakeFiles/RunEmployee.dir
+/home/malik/GitTraining/AdaptiveAutosarTraining/build/Employee/CMakeFiles/rebuild_cache.dir
+/home/malik/GitTraining/AdaptiveAutosarTraining/build/Employee/CMakeFiles/edit_cache.dir
+/home/malik/GitTraining/AdaptiveAutosarTraining/build/Employee/CMakeFiles/getFunctionObj.dir
+/home/malik/GitTraining/AdaptiveAutosarTraining/build/HelloWorld/CMakeFiles/rebuild_cache.dir
+/home/malik/GitTraining/AdaptiveAutosarTraining/build/HelloWorld/CMakeFiles/edit_cache.dir
+/home/malik/GitTraining/AdaptiveAutosarTraining/build/HelloWorld/CMakeFiles/setFunctionObj.dir

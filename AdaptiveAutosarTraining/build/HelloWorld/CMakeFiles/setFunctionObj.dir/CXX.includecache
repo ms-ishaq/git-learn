@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../Employee/employee.h
+iostream
+-
+string
+-
+
+/home/malik/GitTraining/AdaptiveAutosarTraining/HelloWorld/setFunction.cpp
+iostream
+-
+string
+-
+employee.h
+/home/malik/GitTraining/AdaptiveAutosarTraining/HelloWorld/employee.h
+
